@@ -1,0 +1,21 @@
+# SBT specific
+target/
+project/target/
+project/project/
+
+# Scala specific
+*.class
+*.log
+*.cache
+*.settings
+*.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Other
+.env
